@@ -1,0 +1,23 @@
+{
+  "name": "tuckew-cawlson-bot",
+  "version": "1.0.0",
+  "description": "So imagine Tucker Carlson tweets, but uwu",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syntthetix/Tuckew-Cawlson-Bot.git"
+  },
+  "author": "Syntthetix",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Syntthetix/Tuckew-Cawlson-Bot/issues"
+  },
+  "homepage": "https://github.com/Syntthetix/Tuckew-Cawlson-Bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
